@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chef Studio",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Chef Studio",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
