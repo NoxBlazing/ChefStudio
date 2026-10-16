@@ -1,0 +1,67 @@
+{
+  "id": "/chefstudio-hub",
+  "name": "ChefStudio Hub — AI Recipe & Culinary Studio",
+  "short_name": "ChefStudio",
+  "description": "Gourmet AI recipe manager with URL import, ingredient scaling, kitchen timers, and AI sommelier pairings.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "orientation": "any",
+  "background_color": "#0c0a09",
+  "theme_color": "#ea580c",
+  "dir": "ltr",
+  "lang": "en-US",
+  "prefer_related_applications": false,
+  "categories": [
+    "food",
+    "lifestyle",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/ea580c/ffffff.png?text=CS",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://placehold.co/192x192/ea580c/ffffff.png?text=CS",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/ea580c/ffffff.png?text=ChefStudio",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://placehold.co/512x512/ea580c/ffffff.png?text=ChefStudio",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1280&h=720&q=80",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "ChefStudio Desktop Hub"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=720&h=1280&q=80",
+      "sizes": "720x1280",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "ChefStudio Mobile Expressive View"
+    }
+  ]
+}
